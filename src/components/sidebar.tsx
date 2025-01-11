@@ -166,9 +166,9 @@ export function Sidebar({
         </div>
       </div>
 
-      <div className="justify-end px-2 py-2 w-full border-t">
+      {/* <div className="justify-end px-2 py-2 w-full border-t">
         <UserSettings />
-      </div>
+      </div> */}
     </div>
   );
 }
